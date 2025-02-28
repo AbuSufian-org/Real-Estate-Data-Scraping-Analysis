@@ -29,7 +29,7 @@ This project follows a structured **Real Estate Data Processing Workflow**:
 
 ---
 
-## **📌 My Role in the Project**  
+## **📌 My Role in the Project**  https://github.com/AbuSufian-org/Real-Estate-Data-Scraping-Analysis/blob/main/Real%20Estate%20Data%20Scraping%20%26%20Analysis.pdf
 Although the full project includes all the above steps, my primary responsibilities include:  
 ✅ **Data Collection & Cleaning:** Extracting real estate data from Zillow, TheLandPortal, and other platforms  
 ✅ **Comparable Market Analysis:** Analyzing property trends, pricing, and market value estimation  
@@ -56,4 +56,4 @@ I am actively working on automating key aspects of this project using **Python-b
 
 ---
 
-### 🔗 **GitHub Repository:** 
+### 🔗 **GitHub Repository:** https://github.com/AbuSufian-org/Real-Estate-Data-Scraping-Analysis/blob/main/Real%20Estate%20Data%20Scraping%20%26%20Analysis.pdf
