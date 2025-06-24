@@ -60,4 +60,4 @@ I am actively working on automating key aspects of this project using **Python-b
 
 ---
 
-### 🔗 **GitHub Repository:**[](https://github.com/AbuSufian-org/Real-Estate-Data-Scraping-Analysis/blob/main/Real%20Estate%20Data%20Scraping%20%26%20Analysis.pdf)
+### 🔗 **GitHub Repository:**[Click Here](https://github.com/AbuSufian-org/Real-Estate-Data-Scraping-Analysis/blob/main/README.md)
