@@ -44,7 +44,7 @@ Although the full project includes all the above steps, my primary responsibilit
 
 ---
 
-## **🔧 Tech Stack & Tools**  
+## **Tech Stack & Tools**  
 **Data Platforms:** Zillow, TheLandPortal, Redfin, Realtor.com, DataTree, ParcelFact, Google Earth  
 **Data Collection & Analysis:** Excel, Google Sheets, SQL  
 **Web Scraping (Planned):** Selenium, BeautifulSoup, Python  
@@ -60,4 +60,4 @@ I am actively working on automating key aspects of this project using **Python-b
 
 ---
 
-### 🔗 **GitHub Repository:**[Click Here](https://github.com/AbuSufian-org/Real-Estate-Data-Scraping-Analysis/blob/main/README.md)
+### 🔗 **GitHub Repository:** [Click Here](https://github.com/AbuSufian-org/Real-Estate-Data-Scraping-Analysis/blob/main/README.md)
